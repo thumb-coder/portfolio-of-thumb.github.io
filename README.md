@@ -1,4 +1,3 @@
-# portfolio-of-thumb.github.io
 <!doctype html>
 <html>
   <head>
